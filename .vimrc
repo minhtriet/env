@@ -2,6 +2,7 @@ set autoread
 set nocompatible              " be iMproved, required
 set number
 
+syntax on
 filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
